@@ -3,8 +3,6 @@
 3．hhhha 
 4.ahhahazz
 5.dev分支：修改代码
-<<<<<<< HEAD
 6.master分支：修改代码
-=======
 ６．feature1分支：修改代码
->>>>>>> feature1
+7.用户ａ:创建f1分支
